@@ -122,7 +122,7 @@ Dyson V15 = 45.28%), though less extreme.
 - 🚫 **Dell XPS 13 recorded zero sales** — a dead SKU worth 
   investigating (pricing, marketing, or stock issue).
 
-  <details>
+<details>
 <summary>🔍 View SQL Query</summary>
 
 ```sql
