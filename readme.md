@@ -162,8 +162,9 @@ SELECT
 FROM product_sales
 ORDER BY category, product_revenue DESC;
 
+
  ```
- </details>
+ </details> 
 
 
 
